@@ -1,0 +1,6 @@
+C:\Users\Erick\Desktop\C#\WorldEaters\WorldEaters\WorldEaters\bin\Debug\WorldEaters.exe.config
+C:\Users\Erick\Desktop\C#\WorldEaters\WorldEaters\WorldEaters\obj\Debug\WorldEaters.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\C#\WorldEaters\WorldEaters\WorldEaters\bin\Debug\WorldEaters.exe
+C:\Users\Erick\Desktop\C#\WorldEaters\WorldEaters\WorldEaters\bin\Debug\WorldEaters.pdb
+C:\Users\Erick\Desktop\C#\WorldEaters\WorldEaters\WorldEaters\obj\Debug\WorldEaters.exe
+C:\Users\Erick\Desktop\C#\WorldEaters\WorldEaters\WorldEaters\obj\Debug\WorldEaters.pdb
